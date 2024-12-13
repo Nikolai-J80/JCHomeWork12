@@ -1,0 +1,2 @@
+rootProject.name = "JCHomeWork12"
+
